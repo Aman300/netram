@@ -23,7 +23,7 @@ function Social() {
                 <div className="single-awesome-project">
                   <div className="awesome-img">
                     <a href="#">
-                      <img src="https://images.pexels.com/photos/5996643/pexels-photo-5996643.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load" alt="" />
+                      <img src="https://images.pexels.com/photos/3846022/pexels-photo-3846022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
                     </a>
                     <div className="add-actions text-center">
                       <div className="project-dec">

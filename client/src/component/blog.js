@@ -24,7 +24,7 @@ const blog = memo((props) => {
                   <div className="single-blog">
                     <div className="single-blog-img">
                       <a href="blog.html">
-                      <img src='https://www.centreforsight.net/cfs/images/blog-img/eye-specialist.png' alt="" />
+                      <img src='https://www.houstonlocalnews24.com/wp-content/uploads/2022/06/eye.jpg' alt="" />
                       </a>
                     </div>
                     <div className="blog-meta">

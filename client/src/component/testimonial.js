@@ -16,7 +16,7 @@ const Testimonial = memo(() => {
         <div className="row">
           <div className="col-md-6 col-sm-6 col-xs-12">
 
-            <img src={'../assets/IMG_0679.JPG'} alt="img" className="img-fluid" style={{ borderRadius: "30px" }} />
+            <img src="https://i.postimg.cc/9FWktF4b/group.png" alt="img" className="img-fluid" style={{ borderRadius: "30px" }} />
 
           </div>
           <div className="col-md-6 col-sm-6 col-xs-12">

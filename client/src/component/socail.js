@@ -23,7 +23,7 @@ function Social() {
                 <div className="single-awesome-project">
                   <div className="awesome-img">
                     <a href="#">
-                      <img src="https://images.pexels.com/photos/3846022/pexels-photo-3846022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
+                      <img src="https://i.postimg.cc/15JpdZf5/netram-4.jpg" alt="" />
                     </a>
                     <div className="add-actions text-center">
                       <div className="project-dec">
@@ -32,8 +32,8 @@ function Social() {
                           data-gallery="myGallery"
                           href="https://images.pexels.com/photos/8949865/pexels-photo-8949865.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
                         >
-                          <h4>Business City</h4>
-                          <span>Web Development</span>
+                          <h4>Happy</h4>
+                          <span>Netram patient</span>
                         </a>
                       </div>
                     </div>
@@ -46,17 +46,17 @@ function Social() {
                 <div className="single-awesome-project">
                   <div className="awesome-img">
                     <a href="#">
-                    <img src="https://images.pexels.com/photos/5996643/pexels-photo-5996643.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load" alt="" />
+                    <img src="https://i.postimg.cc/X7VfxvNz/netram-3.jpg" alt="" />
                     </a>
                     <div className="add-actions text-center">
                       <div className="project-dec">
                         <a
                           className="portfolio-lightbox"
                           data-gallery="myGallery"
-                          href="https://images.pexels.com/photos/5996643/pexels-photo-5996643.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                          href="https://i.postimg.cc/X7VfxvNz/netram-3.jpg"
                         >
-                          <h4>Blue Sea</h4>
-                          <span>Photosho</span>
+                          <h4>Help</h4>
+                          <span>Netram</span>
                         </a>
                       </div>
                     </div>
@@ -69,17 +69,17 @@ function Social() {
                 <div className="single-awesome-project">
                   <div className="awesome-img">
                     <a href="#">
-                    <img src="https://images.pexels.com/photos/5996594/pexels-photo-5996594.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load" alt="" />
+                    <img src="https://i.postimg.cc/T2jjrbxb/netram-1.jpg" alt="" />
                     </a>
                     <div className="add-actions text-center">
                       <div className="project-dec">
                         <a
                           className="portfolio-lightbox"
                           data-gallery="myGallery"
-                          href="https://images.pexels.com/photos/5996594/pexels-photo-5996594.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                          href="https://i.postimg.cc/T2jjrbxb/netram-1.jpg"
                         >
-                          <h4>Beautiful Nature</h4>
-                          <span>Web Design</span>
+                          <h4>Netram</h4>
+                          <span>Eye foundation</span>
                         </a>
                       </div>
                     </div>
@@ -92,17 +92,17 @@ function Social() {
                 <div className="single-awesome-project">
                   <div className="awesome-img">
                     <a href="#">
-                    <img src="https://images.pexels.com/photos/5765830/pexels-photo-5765830.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load" alt="" />
+                    <img src="https://i.postimg.cc/T2jjrbxb/netram-1.jpg" alt="" />
                     </a>
                     <div className="add-actions text-center">
                       <div className="project-dec">
                         <a
                           className="portfolio-lightbox"
                           data-gallery="myGallery"
-                          href="https://images.pexels.com/photos/5765830/pexels-photo-5765830.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                          href="https://i.postimg.cc/T2jjrbxb/netram-1.jpg"
                         >
-                          <h4>Creative Team</h4>
-                          <span>Web design</span>
+                          <h4>Team Netram </h4>
+                          <span>Eye foundation</span>
                         </a>
                       </div>
                     </div>
@@ -115,17 +115,17 @@ function Social() {
                 <div className="single-awesome-project">
                   <div className="awesome-img">
                     <a href="#">
-                    <img src="https://images.pexels.com/photos/5996759/pexels-photo-5996759.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load" alt="" />
+                    <img src="https://i.postimg.cc/Wz7MjB88/natrem-2.jpg" alt="" />
                     </a>
                     <div className="add-actions text-center text-center">
                       <div className="project-dec">
                         <a
                           className="portfolio-lightbox"
                           data-gallery="myGallery"
-                          href="https://images.pexels.com/photos/5996759/pexels-photo-5996759.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                          href="https://i.postimg.cc/Wz7MjB88/natrem-2.jpg"
                         >
-                          <h4>Beautiful Flower</h4>
-                          <span>Web Development</span>
+                          <h4>Netram</h4>
+                          <span>Eye Foundation</span>
                         </a>
                       </div>
                     </div>
@@ -138,17 +138,17 @@ function Social() {
                 <div className="single-awesome-project">
                   <div className="awesome-img">
                     <a href="#">
-                      <img src="https://images.pexels.com/photos/3846022/pexels-photo-3846022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
+                      <img src="https://i.postimg.cc/15JpdZf5/netram-4.jpg" alt="" />
                     </a>
                     <div className="add-actions text-center">
                       <div className="project-dec">
                         <a
                           className="portfolio-lightbox"
                           data-gallery="myGallery"
-                          href="https://images.pexels.com/photos/3846022/pexels-photo-3846022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                          href="https://i.postimg.cc/15JpdZf5/netram-4.jpg"
                         >
-                          <h4>Night Hill</h4>
-                          <span>Photoshop</span>
+                          <h4>Netram</h4>
+                          <span>Team</span>
                         </a>
                       </div>
                     </div>

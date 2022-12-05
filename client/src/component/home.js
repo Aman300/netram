@@ -82,32 +82,32 @@ function Home() {
             <div className="container">
                 <div className="card-deck text-center p-0 m-0">
                     <div className="card border-0">
-                        <img className="card-img-top" src="https://static.wixstatic.com/media/58c7f0_3ff6806edc814c69971d864f9a8b28a6~mv2.jpg/v1/fill/w_506,h_506,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/surgeon-doctors-operation-room-team-uniform-front-eye-vision-surgery-medical-clinic-107623.jpg" alt="Card image cap" />
+                        <img className="card-img-top" src="https://i.postimg.cc/QtTmLYvY/doctor-anchal-1.jpg" alt="Card image cap" />
                         <div className="card-body">
 
                             <p className="card-text p-0">
-                                This card has supporting text below as a natural lead-in to additional
-                                content.
+                               Your Complete Eye Care is our Responsibility form the day you visit us.
+                                
                             </p>
                         </div>
                     </div>
                     <div className="card border-0">
-                        <img className="card-img-top" src="https://static.wixstatic.com/media/3c63f615c3b34615a5c2f795b05998e7.jpg/v1/fill/w_506,h_506,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/GettyImages-513439015.jpg" alt="Card image cap" />
+                        <img className="card-img-top" src="https://i.postimg.cc/FRF4KcV4/dodc.jpg" alt="Card image cap" />
                         <div className="card-body">
 
                             <p className="card-text p-0">
-                                This card has supporting text below as a natural lead-in to additional
-                                content.
+                               Your Complete Eye Care is our Responsibility form the day you visit us.
+                                
                             </p>
                         </div>
                     </div>
                     <div className="card border-0">
-                        <img className="card-img-top" src="https://static.wixstatic.com/media/11062b_7898ab21fa2f4be3a52fe1d86c7a9831~mv2.jpeg/v1/fill/w_952,h_927,fp_0.45_0.31,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_7898ab21fa2f4be3a52fe1d86c7a9831~mv2.jpeg" alt="Card image cap" />
+                        <img className="card-img-top" src="https://i.postimg.cc/fbKG1yng/docc.jpg" alt="Card image cap" />
                         <div className="card-body">
 
                             <p className="card-text p-0">
-                                This card has supporting text below as a natural lead-in to additional
-                                content.
+                               Your Complete Eye Care is our Responsibility form the day you visit us.
+                                
                             </p>
                         </div>
                     </div>

@@ -9,7 +9,7 @@ function navbar() {
             <div className="container-fluid bg-green">
 
                 <div className="container text-white p-1 text-right">
-                    Helpline number: 1800 222 8585
+                    Helpline number: 9971030155
                 </div>
 
             </div>

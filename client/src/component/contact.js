@@ -83,9 +83,9 @@ function Contact() {
               <div className="single-icon">
                 <i className="bi bi-phone" />
                 <p>
-                  Call: +1 5589 55488 55
+                  Call:+91 9319909455
                   <br />
-                  <span>Monday-Friday (9am-5pm)</span>
+                  <span>Monday-saturdy (9am-6pm)</span>
                 </p>
               </div>
             </div>
@@ -96,9 +96,9 @@ function Contact() {
               <div className="single-icon">
                 <i className="bi bi-envelope" />
                 <p>
-                  Email: info@example.com
+                  Email:  ngonetram@gmail.com
                   <br />
-                  <span>Web: www.example.com</span>
+                  <span>Web: www.netram.co.in</span>
                 </p>
               </div>
             </div>
@@ -109,9 +109,9 @@ function Contact() {
               <div className="single-icon">
                 <i className="bi bi-geo-alt" />
                 <p>
-                  Location: A108 Adam Street
+                  Location: I -1791, C R Park, near IDBI Bank.
                   <br />
-                  <span>NY 535022, USA</span>
+                  <span>Delhi 110019, Delhi</span>
                 </p>
               </div>
             </div>
@@ -177,15 +177,8 @@ function Contact() {
                     defaultValue={""}
                   />
                 </div>
-                <div className="my-3">
-                  <div className="loading">Loading</div>
-                  <div className="error-message" />
-                  <div className="sent-message">
-                    Your message has been sent. Thank you!
-                  </div>
-                </div>
                 <div className="text-center">
-                  <button type="submit" className='btn btn-success'>Send Message</button>
+                  <button type="submit" className='btn btn-success btn-rounded btn-lg'>Send Message</button>
                 </div>
               </form>
             </div>

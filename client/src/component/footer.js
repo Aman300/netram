@@ -16,34 +16,38 @@ function footer() {
               <div className="footer-head">
                 <div className="footer-logo">
                   <h2>
-                    <span>eye</span>foundation
+                    <span>NETRAM</span>
                   </h2>
                 </div>
-                <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo inventore veritatis.
+                <p className="text-dark">
+                  Your Complete Eye Care is our Responsibility form the day you visit us.
                 </p>
+                <h4 className="text-success" style={{fontSize: "20px"}}>आँखें आपकी ज़िम्मेदारी हमारी</h4>
                 <div className="footer-icons">
                   <ul>
                     <li>
-                      <a href="#">
+                      <a href="https://www.facebook.com/netrameyefoundation">
                         <i className="fa fa-facebook-f" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="https://twitter.com/NetramEyeCentre">
                         <i className="fa fa-twitter" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="https://www.instagram.com/netrameyefoundation/">
                         <i className="fa fa-instagram" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="https://www.youtube.com/@NetramEyeFoundation">
                         <i className="fa fa-youtube" />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.linkedin.com/company/netram-eye-foundation/">
+                        <i className="fa fa-linkedin" />
                       </a>
                     </li>
                   </ul>
@@ -62,49 +66,22 @@ function footer() {
                 </p>
                 <div className="footer-contacts">
                   <p>
-                    <span>Tel:</span> 01141086655, 01141046655, 
+                    <span>Apponiment no:</span> 01141086655, 01141046655, 
                   </p>
                   <p>
-                    <span>Mob:</span> +91 9319909455, 
+                    <span>Mob:</span> +91 9319909455, 9971030155
                   </p>
                   <p>
-                    <span>Email:</span> contact@example.com
-                  </p>
-                  <p>
-                    <span>Working Hours:</span> 9am-5pm
+                    <span>Email:</span> ngonetram@gmail.com
                   </p>
                 </div>
               </div>
             </div>
           </div>
           {/* end single footer */}
-          <div className="col-md-4">
-            <div className="footer-content">
-              <div className="footer-head">
-                <h4>Instagram</h4>
-                <div className="flicker-img">
-                  <a href="#">
-                   <img src={'../assets/IMG_20210806_123841.jpg'} alt="" />
-                  </a>
-                  <a href="#">
-                  <img src={'../assets/IMG_20210806_123841.jpg'} alt="" />
-                  </a>
-                  <a href="#">
-                  <img src={'../assets/IMG_20210806_123841.jpg'} alt="" />
-                  </a>
-                  <a href="#">
-                  <img src={'../assets/IMG_20210806_120504.jpg'} alt="" />
-                  </a>
-                  <a href="#">
-                  <img src={'../assets/IMG_20210806_123841.jpg'} alt="" />
-                  </a>
-                  <a href="#">
-                  <img src={'../assets/IMG_20210806_124514.jpg'} alt="" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+
+          <img src="https://www.pinclipart.com/picdir/big/145-1456116_contact-lens-clip-art.png" style={{width: "250px"}} alt="" />
+          
         </div>
       </div>
     </div>
@@ -117,14 +94,14 @@ function footer() {
                 © Copyright <strong>Natram</strong>. All Rights Reserved
               </p>
             </div>
-            <div className="credits">
+            <div className="credits p-0">
               {/*
         All the links in the footer should remain intact.
         You can delete the links only if you purchased the pro version.
         Licensing information: https://bootstrapmade.com/license/
         Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
       */}
-            <a href="https://www.natram.co.in/">www.natram.co.in</a>
+            <a href="https://www.netram.co.in/">www.netram.co.in</a>
             </div>
           </div>
         </div>

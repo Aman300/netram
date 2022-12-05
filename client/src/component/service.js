@@ -24,7 +24,7 @@ const Service = () => {
                     <a className="services-icon" href="#">
                       <i className="bi bi-briefcase" />
                     </a>
-                    <h6>GLAUCOMA</h6>
+                    <h6>Home Eye Care</h6>
                   </div>
                 </div>
                 {/* end about-details */}
@@ -37,7 +37,7 @@ const Service = () => {
                     <a className="services-icon" href="#">
                       <i className="bi bi-card-checklist" />
                     </a>
-                    <h6>CATARACT & IOL SURGERY</h6>
+                    <h6>Cataract Surgery</h6>
                   </div>
                 </div>
                 {/* end about-details */}
@@ -51,7 +51,7 @@ const Service = () => {
                     <a className="services-icon" href="#">
                       <i className="bi bi-bar-chart" />
                     </a>
-                    <h6>CORNEA</h6>
+                    <h6>Lasik and Refractive Surgeries</h6>
                   </div>
                 </div>
                 {/* end about-details */}
@@ -65,7 +65,7 @@ const Service = () => {
                     <a className="services-icon" href="#">
                       <i className="bi bi-binoculars" />
                     </a>
-                    <h6>DRY EYE</h6>
+                    <h6>Contoura Lasik</h6>
                   </div>
                 </div>
                 {/* end about-details */}
@@ -80,7 +80,7 @@ const Service = () => {
                     <a className="services-icon" href="#">
                       <i className="bi bi-brightness-high" />
                     </a>
-                    <h6>ORBIT & OCULOPLASTY</h6>
+                    <h6>Advanced Retina Services</h6>
                   </div>
                 </div>
                 {/* end about-details */}
@@ -95,7 +95,7 @@ const Service = () => {
                     <a className="services-icon" href="#">
                       <i className="bi bi-calendar4-week" />
                     </a>
-                    <h6>CONTACTLENS & lOW VISION AIDS</h6>
+                    <h6>Cornea Transplant- C3R</h6>
 
                   </div>
                 </div>
@@ -115,7 +115,7 @@ const Service = () => {
                         <a className="services-icon" href="#">
                           <i className="bi bi-calendar4-week" />
                         </a>
-                        <h6>CONTACTLENS & lOW VISION AIDS</h6>
+                        <h6>Glaucoma Treatment</h6>
 
                       </div>
                     </div>
@@ -133,44 +133,7 @@ const Service = () => {
                         <a className="services-icon" href="#">
                           <i className="bi bi-calendar4-week" />
                         </a>
-                        <h6>CONTACTLENS & lOW VISION AIDS</h6>
-
-                      </div>
-                    </div>
-                    {/* end about-details */}
-                  </div>
-                </div>
-              </div>
-
-
-              <div className="col-md-4 col-sm-4 col-xs-12">
-                {/* end col-md-4 */}
-                <div className="collapse multi-collapse" id="multiCollapseExample1">
-                  <div className=" about-move">
-                    <div className="services-details">
-                      <div className="our-services-list">
-                        <a className="services-icon" href="#">
-                          <i className="bi bi-calendar4-week" />
-                        </a>
-                        <h6>CONTACTLENS & lOW VISION AIDS</h6>
-
-                      </div>
-                    </div>
-                    {/* end about-details */}
-                  </div>
-                </div>
-              </div>
-
-              <div className="col-md-4 col-sm-4 col-xs-12">
-                {/* end col-md-4 */}
-                <div className="collapse multi-collapse" id="multiCollapseExample1">
-                  <div className=" about-move">
-                    <div className="services-details">
-                      <div className="our-services-list">
-                        <a className="services-icon" href="#">
-                          <i className="bi bi-calendar4-week" />
-                        </a>
-                        <h6>CONTACTLENS & lOW VISION AIDS</h6>
+                        <h6>Paediatric Ophthalmology</h6>
 
                       </div>
                     </div>
@@ -189,7 +152,25 @@ const Service = () => {
                         <a className="services-icon" href="#">
                           <i className="bi bi-calendar4-week" />
                         </a>
-                        <h6>CONTACTLENS & lOW VISION AIDS</h6>
+                        <h6>Oculoplasty & Squint</h6>
+
+                      </div>
+                    </div>
+                    {/* end about-details */}
+                  </div>
+                </div>
+              </div>
+
+              <div className="col-md-4 col-sm-4 col-xs-12">
+                {/* end col-md-4 */}
+                <div className="collapse multi-collapse" id="multiCollapseExample1">
+                  <div className=" about-move">
+                    <div className="services-details">
+                      <div className="our-services-list">
+                        <a className="services-icon" href="#">
+                          <i className="bi bi-calendar4-week" />
+                        </a>
+                        <h6>Advance Dry Eye Clinic </h6>
 
                       </div>
                     </div>
@@ -208,7 +189,26 @@ const Service = () => {
                         <a className="services-icon" href="#">
                           <i className="bi bi-calendar4-week" />
                         </a>
-                        <h6>CONTACTLENS & lOW VISION AIDS</h6>
+                        <h6>Computer Vision Syndrome</h6>
+
+                      </div>
+                    </div>
+                    {/* end about-details */}
+                  </div>
+                </div>
+              </div>
+
+
+              <div className="col-md-4 col-sm-4 col-xs-12">
+                {/* end col-md-4 */}
+                <div className="collapse multi-collapse" id="multiCollapseExample1">
+                  <div className=" about-move">
+                    <div className="services-details">
+                      <div className="our-services-list">
+                        <a className="services-icon" href="#">
+                          <i className="bi bi-calendar4-week" />
+                        </a>
+                        <h6>Low Vision Aids</h6>
 
                       </div>
                     </div>
